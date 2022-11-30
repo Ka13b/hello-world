@@ -1,2 +1,3 @@
 # hello-world
-I hate the Earth, but the world is pretty chill.
+"Global warming is a fraudulent belief."
+-Sun Tzu, The Art of War
